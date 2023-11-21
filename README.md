@@ -1,4 +1,5 @@
-# 2023.19
+# 情感分类
+#2023.11.19
 1.实现思路
   首先读取路径下的文本文件，获得文本和对应的标签，导出为csv文件
   dataset读取csv文件，将从路径获得的文本编码处理成input_ids,attention_mask,input_type_ids,labels
